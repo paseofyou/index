@@ -1,1 +1,1 @@
-<center>就是网站导航，emmm</cenetr>
+<center>就是网站导航，emmm</center>
